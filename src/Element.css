@@ -1,0 +1,8 @@
+.main{
+    width: 175px;
+    height: 175px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 3.5rem;
+    margin-top: 3rem;
+}
